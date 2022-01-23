@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I try to write code in:
+Python, 
+R,
+C#,
+MATLAB,
+TypeScript,
+DAX and M
+
 <!--
 **Grzelox/Grzelox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
