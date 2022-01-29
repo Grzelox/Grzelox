@@ -1,13 +1,3 @@
-### Hi there 👋
-
-I try to write code in:
-Python, 
-R,
-C#,
-MATLAB,
-TypeScript,
-DAX and M
-
 <!--
 **Grzelox/Grzelox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,7 +25,7 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![R] (https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   ![C#](https://img.shields.io/badge/-C%23-green)
   ![Azure](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
