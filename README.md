@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Currently doing Masters Degree in Data Science
+- 🎓 &nbsp; Currently doing Master's Degree in Data Science
 - 💼 &nbsp; Working as a Tech Enginneer
-- 🌱 &nbsp; Learning more about data visualization and machine learning.
+- 🌱 &nbsp; Learning more about data visualization and exploring world of data science.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
