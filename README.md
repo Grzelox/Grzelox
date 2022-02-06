@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 💻 &nbsp; Python, R, C#, Azure
 - 🌐 &nbsp; HTML5, CSS, Javascript, React Native
-- 🛢 &nbsp; SQL, CosmoDB, PowerBI, Tableau
-- ⚙️ &nbsp; Git, Github, Azure DevOps, CI/CD
+- 🛢  &nbsp; SQL, CosmoDB, PowerBI, Tableau
+- ⚙️ &nbsp; Git, Github, Azure DevOps, CI/CD, SAP CDC
 
 <br/>
