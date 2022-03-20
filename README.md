@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp; Python, R, C#, Azure
+- 💻 &nbsp; Python, R, C#, Azure, Docker
 - 🌐 &nbsp; HTML5, CSS, Javascript, React Native
 - 🛢  &nbsp; SQL, CosmoDB, PowerBI, Tableau
-- ⚙️ &nbsp; Git, Github, Azure DevOps, CI/CD, SAP CDC
+- ⚙️ &nbsp; Git, Github, Github Actions, Azure DevOps, CI/CD, SAP CDC
 
 <br/>
