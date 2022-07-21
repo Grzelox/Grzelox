@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Currently studying for Master's Degree in Data Science. Holding Bachelor of Engineering in Applied Math
-- 💼 &nbsp; Working in Tech Enginner/DevOps with elements of Data Analysis role.
+- 🎓 &nbsp; I am currently studying for Master's Degree in Data Science. Holding Bachelor of Engineering in Applied Math.
+- 💼 &nbsp; Work as Tech Engineer/CIAM Developer with stack: SAP Consumer Data Cloud, Microservices, Serveless Computing, C#, Power BI, Data Analytics
 - 🌱 &nbsp; Learning more about data visualization and exploring world of data science.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp; Python, R, C#, Azure, Docker
-- 🌐 &nbsp; HTML5, CSS, Javascript, React Native
-- 🛢  &nbsp; SQL, CosmoDB, PowerBI, Tableau
+- 🌐 &nbsp; JavaScript, React Native, HTML5, CSS
+- 🛢  &nbsp; MySQL, PostgreSQL, Oracle, CosmoDB, PowerBI, Tableau
 - ⚙️ &nbsp; Git, Github, Github Actions, Azure DevOps, CI/CD, SAP CDC
 
 <br/>
