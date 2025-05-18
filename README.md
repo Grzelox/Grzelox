@@ -35,7 +35,7 @@
 ---
 
 ### After hours working on: 
-[[tiny-health.com](https://www.tiny-health.com/)
+[tiny-health.com](https://www.tiny-health.com/)
 **tiny-health** is a web app for tracking health of small rodents
 - Built with Next 15 and React Query
 - Auth using Clerk
