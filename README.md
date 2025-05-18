@@ -34,8 +34,15 @@
 
 ---
 
-### After hours working on: [medtalk.app](https://medtalk.app)  
+### After hours working on: 
+[[tiny-health.com](https://www.tiny-health.com/)
+**tiny-health** is a web app for tracking health of small rodents
+- Built with Next 15 and React Query
+- Auth using Clerk
+- Supabase as database
 
+
+[medtalk.app](https://medtalk.app)  
 **MedTalk.app** is a full-stack patient simulation platform:  
 - **Frontend:**  
   - Built with Next.js and TailwindCSS.  
@@ -52,6 +59,7 @@
 
 ### 🌱 Currently Learning  
 - **Kubernetes:** Mastering container orchestration and microservices architecture.  
-- **Next.js:** Next.js 15 and React 19
+- **Next.js**
+- **Python**
 
 ---
