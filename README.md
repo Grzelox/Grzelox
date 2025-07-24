@@ -25,7 +25,7 @@ I'm a passionate software engineer with an **applied mathematics** background, f
 
 ### Cloud & DevOps
 - **Cloud Platforms**: Azure, GCP
-- **Infrastructure**: Terraform, Terragrunt
+- **Infrastructure**: Terraform, Terragrunt, Docker
 - **Orchestration**: Kubernetes
 
 ## What I Do
