@@ -7,17 +7,17 @@ I'm a passionate software engineer with an **applied mathematics** background, f
 ### Languages
 - Python
 - C#
-- TypeScript, Node.js
+- TypeScript
 - R
 
 ### Frameworks & Libraries
 - **Backend**: FastAPI, Pydantic, Celery, Azure Libraries, ServiceBus, Kafka, Node.js
 - **Frontend**: React, Next.js, Tailwind CSS
-- **Data Science**: Pandas, NumPy, Matplotlib, PyTorch, Scikit-learn
+- **Data Processing**: Pandas, Polars, NumPy, 
 - **AI/ML**: LangChain, Ollama, LlamaIndex, ChromaDB
 
 ### Data Stack
-- **SQL**: PostgreSQL
+- **SQL**: PostgreSQL, Microsoft SQL Server
 - **NoSQL**: MongoDB, Cosmos DB, Chroma DB
 - **Cache**: Redis
 - **Analytics**: Databricks, Power BI
